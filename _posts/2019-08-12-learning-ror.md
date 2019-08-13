@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: "Learning Ruby on Rails"
 ---
 
-#Learning Ruby
+# Learning Ruby
 
 Suspendisse faucibus, nunc et pellentesque egestas, lacus ante convallis tellus, vitae iaculis lacus elit id tortor. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. In turpis. Curabitur suscipit suscipit tellus. Ut leo.
 
